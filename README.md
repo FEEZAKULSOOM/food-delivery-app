@@ -146,7 +146,7 @@
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/FEEZAKULSOOM/s-hive-ecommerce.git
+git clone https://github.com/FEEZAKULSOOM/food-delivery-app.git
 
 # 2️⃣ Navigate to project directory
 cd s-hive-ecommerce
