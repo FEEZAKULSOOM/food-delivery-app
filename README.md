@@ -149,7 +149,7 @@
 git clone https://github.com/FEEZAKULSOOM/food-delivery-app.git
 
 # 2️⃣ Navigate to project directory
-cd s-hive-ecommerce
+cd food-delivery-app
 
 # 3️⃣ Install dependencies
 npm install
