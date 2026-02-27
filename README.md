@@ -68,7 +68,7 @@
 
 ### 🌐 **Experience Live**
 
-**👉 [https://fresh-bite.netlify.app/](https://fresh-bite.netlify.app/)**
+**👉 [https://fresh-bite1.netlify.app/](https://fresh-bite1.netlify.app/)**
 
 | Category | Food Items |
 |----------|------------|
