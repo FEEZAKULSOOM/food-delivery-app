@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=S-Hive%20Food%20Delivery&fontSize=45&fontColor=ffffff&animation=twinkling)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=FreshBite%20Food%20Delivery&fontSize=45&fontColor=ffffff&animation=twinkling)
 
 <p align="center">
   <a href="#-features"><img src="https://img.shields.io/badge/Features-0A1F33?style=for-the-badge&logo=home&logoColor=white"/></a> •
@@ -68,7 +68,7 @@
 
 ### 🌐 **Experience Live**
 
-**👉 [https://s-hive.netlify.app/](https://s-hive.netlify.app/)**
+**👉 [https://fresh-bite.netlify.app/](https://fresh-bite.netlify.app/)**
 
 | Category | Food Items |
 |----------|------------|
@@ -254,11 +254,11 @@ npm run build
 
 <div align="center">
 
-MIT License © 2026 **S-Hive Food Delivery**
+MIT License © 2026 **Fresh Bite Food Delivery**
 
 ### 🌟 **Show your support**
 
-If you like this food delivery app, please consider giving it a ⭐ on GitHub!
+If you like this food delivery app, consider giving it a ⭐ on GitHub!
 
 [![GitHub stars](https://img.shields.io/github/stars/FEEZAKULSOOM/s-hive-ecommerce?style=social)](https://github.com/FEEZAKULSOOM/s-hive-ecommerce)
 
