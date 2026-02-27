@@ -17,7 +17,7 @@
 [![Tailwind](https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=flat-square&logo=tailwind-css)](https://tailwindcss.com)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Fresh+Food+Delivered+to+Your+Doorstep;6+Delicious+Categories+to+Choose+From;Kitchen+%26+Electronics+%26+Fashion+%26+More;Add+to+Cart+%26+Remove+with+Ease;Search+with+Smart+Highlighting;Real-time+Price+Calculations+%26+Taxes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Fresh+Food+Delivered+to+Your+Doorstep;6+Delicious+Categories+to+Choose+From;Pizza+%26+Burgers+%26+Drinks+%26+More;Add+to+Cart+%26+Remove+with+Ease;Search+with+Smart+Highlighting;Real-time+Price+Calculations+%26+Taxes" alt="Typing SVG" />
 </p>
 
 </div>
@@ -72,12 +72,12 @@
 
 | Category | Food Items |
 |----------|------------|
-| **Kitchen** | Knife Set, Cookware Set, Mixer Grinder |
-| **Electronics** | Smart TV, Laptop, Wireless Headphones |
-| **Fashion** | Women's Kurta, Men's Jeans, Winter Jacket |
-| **Shoes** | Sports Sneakers, Heels, Hiking Boots |
-| **Beauty** | Makeup Kit, Skincare Set, Perfume |
-| **Sports** | Cricket Bat, Football, Yoga Mat |
+| **Pizza** | Margherita, Pepperoni, Veg Supreme |
+| **Burgers** | Chicken Burger, Veg Burger, Cheese Burger |
+| **Beverages** | Soft Drinks, Juices, Milkshakes |
+| **Desserts** | Ice Cream, Brownies, Pastries |
+| **Chinese** | Noodles, Fried Rice, Manchurian |
+| **Snacks** | Fries, Sandwiches, Wraps |
 
 </div>
 
