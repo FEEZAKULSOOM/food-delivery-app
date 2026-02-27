@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=S-Hive%20E-Commerce&fontSize=45&fontColor=ffffff&animation=twinkling)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=S-Hive%20Food%20Delivery&fontSize=45&fontColor=ffffff&animation=twinkling)
 
 <p align="center">
   <a href="#-features"><img src="https://img.shields.io/badge/Features-0A1F33?style=for-the-badge&logo=home&logoColor=white"/></a> •
@@ -14,9 +14,10 @@
 [![Redux](https://img.shields.io/badge/Redux-Toolkit-764ABC?style=flat-square&logo=redux)](https://redux-toolkit.js.org/)
 [![Vite](https://img.shields.io/badge/Vite-6-646CFF?style=flat-square&logo=vite)](https://vitejs.dev)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Tailwind](https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=flat-square&logo=tailwind-css)](https://tailwindcss.com)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Shop+Across+6+Categories;Kitchen+%26+Electronics+%26+Fashion;Shoes+%26+Beauty+%26+Sports;Add+to+Cart+%26+Remove+Items;Search+with+Smart+Highlighting;Built+with+React+19+%26+Redux+Toolkit" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Fresh+Food+Delivered+to+Your+Doorstep;6+Delicious+Categories+to+Choose+From;Kitchen+%26+Electronics+%26+Fashion+%26+More;Add+to+Cart+%26+Remove+with+Ease;Search+with+Smart+Highlighting;Real-time+Price+Calculations+%26+Taxes" alt="Typing SVG" />
 </p>
 
 </div>
@@ -42,20 +43,22 @@
 
 ## ✨ Features
 
-### 🎯 **Core Capabilities**
+### 🍽️ **Food Delivery Capabilities**
 
 | Feature | Description | Status |
 |---------|-------------|--------|
-| 🏠 **6 Product Categories** | Kitchen, Electronics, Fashion, Shoes, Beauty, Sports | ✅ |
-| 🔍 **Smart Search** | Case-insensitive search across food items | ✅ |
-| 🛒 **Shopping Cart** | Add/remove items with Redux state management | ✅ |
-| 🏷️ **Category Filtering** | Filter products by category | ✅ |
+| 🏠 **6 Food Categories** | Kitchen, Electronics, Fashion, Shoes, Beauty, Sports | ✅ |
+| 🔍 **Smart Food Search** | Case-insensitive search across food items | ✅ |
+| 🛒 **Shopping Cart** | Add/remove food items with Redux state management | ✅ |
+| 🏷️ **Category Filtering** | Filter food items by category | ✅ |
 | 📱 **Responsive Design** | Optimized for mobile, tablet and desktop | ✅ |
-| 🎨 **Green & White Theme** | Clean interface with green accents (#22c55e) | ✅ |
+| 🎨 **Green Theme** | Fresh food aesthetic with green accents (#22c55e) | ✅ |
 | 💰 **Dynamic Pricing** | Real-time price calculation with quantity | ✅ |
-| 🛍️ **Cart Sidebar** | Slide-in cart with item management | ✅ |
-| ➕ **Quantity Controls** | Increase/decrease item quantities in cart | ✅ |
-| 🗑️ **Remove Items** | Delete items from cart with icon | ✅ |
+| 🛍️ **Cart Sidebar** | Slide-in cart with food item management | ✅ |
+| ➕ **Quantity Controls** | Increase/decrease food quantities in cart | ✅ |
+| 🗑️ **Remove Items** | Delete food items from cart with icon | ✅ |
+| 💵 **Price Breakdown** | Subtotal, delivery fee (₹20), taxes (5%), grand total | ✅ |
+| 🧮 **Auto Calculations** | Automatic tax and total updates | ✅ |
 
 ---
 
@@ -67,14 +70,14 @@
 
 **👉 [https://s-hive.netlify.app/](https://s-hive.netlify.app/)**
 
-| Category | Sample Items |
-|----------|--------------|
-| **Kitchen** | Knife Set, Cookware, Mixer |
-| **Electronics** | Smart TV, Laptop, Headphones |
-| **Fashion** | Kurta, Jeans, Jacket |
-| **Shoes** | Sneakers, Heels, Boots |
-| **Beauty** | Makeup Kit, Skincare |
-| **Sports** | Cricket Bat, Football |
+| Category | Food Items |
+|----------|------------|
+| **Kitchen** | Knife Set, Cookware Set, Mixer Grinder |
+| **Electronics** | Smart TV, Laptop, Wireless Headphones |
+| **Fashion** | Women's Kurta, Men's Jeans, Winter Jacket |
+| **Shoes** | Sports Sneakers, Heels, Hiking Boots |
+| **Beauty** | Makeup Kit, Skincare Set, Perfume |
+| **Sports** | Cricket Bat, Football, Yoga Mat |
 
 </div>
 
@@ -104,9 +107,9 @@
       <br><sub>ES6+</sub>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS3" />
-      <br><b>CSS3</b>
-      <br><sub>Tailwind CSS</sub>
+      <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" alt="Tailwind" />
+      <br><b>Tailwind CSS</b>
+      <br><sub>Styling</sub>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=vite" width="60" height="60" alt="Vite" />
@@ -193,22 +196,37 @@ npm run build
 
 | Element | Color | Usage |
 |---------|-------|-------|
-| **Primary Green** | `#22c55e` | Buttons, prices, accents |
+| **Primary Green** | `#22c55e` | Buttons, prices, cart accents |
 | **Background** | `#e2e8f0` | Page backgrounds |
-| **Card Background** | `#FFFFFF` | Product cards |
+| **Card Background** | `#FFFFFF` | Food item cards |
 | **Text Gray** | `#4b5563` | Body text |
 | **Hover Effect** | `hover:bg-green-200` | Category hover states |
+| **Delete Icon** | `#ef4444` | Remove items from cart |
 
-### Key Features
+### 🍔 **Food Delivery Features**
 
-- **Category Grid**: 6 clickable category cards with icons
-- **Search Functionality**: Filter products in real-time
-- **Shopping Cart**: Slide-in sidebar with item management
-- **Quantity Controls**: Increase/decrease item quantities
-- **Price Calculation**: Subtotal, delivery fee, taxes, and grand total
-- **Responsive Design**: Mobile-friendly layout
+- **Category Grid**: 6 clickable food category cards with icons
+- **Search Functionality**: Filter food items in real-time
+- **Shopping Cart**: Slide-in sidebar with food item management
+- **Quantity Controls**: Increase/decrease food quantities
+- **Price Breakdown**: 
+  - Subtotal (price × quantity)
+  - Delivery Fee: ₹20 flat
+  - Taxes: 5% of subtotal
+  - Grand Total: Subtotal + Delivery + Taxes
+- **Responsive Design**: Mobile-friendly food ordering
 - **Cart Badge**: Real-time item count in navigation
-- **Delete Items**: Remove items with trash icon
+- **Delete Items**: Remove food items with trash icon
+- **Sticky Cart Summary**: Totals always visible while scrolling
+
+### 💵 **Sample Price Calculation**
+
+```
+Subtotal:    ₹500 (2 items × ₹250)
+Delivery:    ₹20
+Taxes (5%):  ₹25
+Grand Total: ₹545
+```
 
 ---
 
@@ -218,7 +236,7 @@ npm run build
 
 ```bash
 git add .
-git commit -m "Ready for deployment"
+git commit -m "Ready for deployment - Food Delivery App"
 git push origin main
 ```
 
@@ -236,11 +254,11 @@ npm run build
 
 <div align="center">
 
-MIT License © 2026 **S-Hive E-Commerce**
+MIT License © 2026 **S-Hive Food Delivery**
 
 ### 🌟 **Show your support**
 
-If you like this project, please consider giving it a ⭐ on GitHub!
+If you like this food delivery app, please consider giving it a ⭐ on GitHub!
 
 [![GitHub stars](https://img.shields.io/github/stars/FEEZAKULSOOM/s-hive-ecommerce?style=social)](https://github.com/FEEZAKULSOOM/s-hive-ecommerce)
 
@@ -248,12 +266,14 @@ If you like this project, please consider giving it a ⭐ on GitHub!
 
 ### 📬 **Contact Me**
 
-[![Email](https://img.shields.io/badge/Email-feezakulsoom42%40gmail.com-FF6B00?style=for-the-badge&logo=gmail)](mailto:feezakulsoom42@gmail.com)
+[![Email](https://img.shields.io/badge/Email-feezakulsoom42%40gmail.com-22C55E?style=for-the-badge&logo=gmail)](mailto:feezakulsoom42@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-FEEZAKULSOOM-0A1F33?style=for-the-badge&logo=github)](https://github.com/FEEZAKULSOOM)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FEEZAKULSOOM-0A1F33?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/feeza-kulsoom-82a801313)
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F33,100:FF6B00&height=150&section=footer" width="100%"/>
+### 🍕 **Order Your Favorite Food Today!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0A1F33&height=150&section=footer" width="100%"/>
 
 </div>
